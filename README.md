@@ -10,7 +10,7 @@ O projeto se encontra finalizado, mas foi feita as seguintes alterações:
 
 - [x] Visuzalizar o Banco de Dados
 - [x] Realizar Alerações no Banco
-- [ ] Demosntração em uma única página.
+- [x] Demosntração em uma única página.
 
 Copyright © 2023 - [Fernandeezz](https://github.com/Fernandeezz)
 
