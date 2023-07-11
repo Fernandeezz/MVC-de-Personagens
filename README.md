@@ -1,6 +1,6 @@
 # MVC de Personagens
 
-<img src="Captura de tela 2023-05-25 183125.png" alt="exemplo imagem">
+<img src="image.png" alt="exemplo imagem">
 
 > Neste projeto após responder um pequeno formulário é possível editar as informações cadastrais, selecionar seu login, inserir um novo personagem e realizar comentários sobre ele.
 
